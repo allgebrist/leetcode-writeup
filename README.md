@@ -1,1 +1,1 @@
-# Leetcode: Content Creator / Technical Writer Application
+# Content Creator / Technical Writer Application
